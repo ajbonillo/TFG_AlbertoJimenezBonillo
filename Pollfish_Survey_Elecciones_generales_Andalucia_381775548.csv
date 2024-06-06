@@ -1,0 +1,1000 @@
+﻿Gender;Age;Year Of Birth;Información del estudio científico Somos un equipo de investigadores en estadística e informática que estamos recopilando datos de intención de voto en diferentes regiones de España con el fin de evaluar técnicas de estimación estadística. Específicamente, esta encuesta contiene preguntas sobre la intención de voto de un conjunto de sus contactos cercanos en las elecciones generales de España del 23 de julio de 2023. El grupo de contactos puede incluir familia, amigos o compañeros de trabajo cuya intención de voto usted conoce. - Las respuestas son anónimas. Los investigadores no pueden identificar a los participantes. - Los datos no pueden modificarse ni eliminarse una vez completada la encuesta. - Los datos recopilados pueden publicarse de forma agregada bajo la Open Data Commons Attribution License. - Los resultados de este estudio no se publicarán antes de que hayan finalizado las elecciones generales de España del 23 de julio de 2023. ¿Está usted de acuerdo en participar de esta encuesta?;¿Cuántos de sus contactos votarán al Partido Popular (PP) en las elecciones generales de España?;¿Cuántos de sus contactos votarán al Partido Socialista Obrero Español (PSOE) en las elecciones generales de España? ;¿Cuántos de sus contactos votarán a Vox en las elecciones generales de España?;¿Cuántos de sus contactos votarán a Sumar en las elecciones generales de España?;¿Cuántos de sus contactos votarán a otros partidos o en blanco en las elecciones generales de España?;¿Cuántos de sus contactos no votarán o no conoce su voto en las elecciones generales de España?;¿Cuántos de sus contactos considerados anteriormente tienen entre 18 y 34 años? ;¿Cuántos de sus contactos considerados anteriormente tienen entre 35 y 54 años?;¿Cuántos de sus contactos considerados anteriormente tienen más de 54 años?;¿Cuántos de sus contactos considerados anteriormente son trabajadores autónomos?;¿Cuántos de sus contactos considerados anteriormente son médicos? ;¿Cuántos de sus contactos considerados anteriormente están desempleados?;Education;Employment Status;Income;Provincia
+male;35 - 44;1982;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;20;16;3;4;8;11;32;12;4;5;2;4;vocational_technical_college;employed_for_wages;middle_ii;04
+female;> 54;1965;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;3;0;3;0;0;0;0;25;25;1;0;1;high_school;employed_for_wages;high_i;04
+male;> 54;1967;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;10;0;1;0;0;5;9;8;0;1;0;elementary_school;unemployed_looking;middle_i;04
+female;25 - 34;1995;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;4;0;2;0;10;10;50;20;5;50;0;0;university;employed_for_wages;prefer_not_to_say;04
+female;25 - 34;1998;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;20;30;1;2;10;1;40;40;20;50;10;9;postgraduate;employed_for_wages;lower_ii;04
+male;> 54;1963;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;10;4;8;1;2;6;36;2;1;2;1;3;vocational_technical_college;employed_for_wages;middle_ii;04
+male;25 - 34;1997;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;50;15;250;3;5;6;210;60;15;50;2;68;postgraduate;student;prefer_not_to_say;04
+male;18 - 24;2004;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;2;2;8;1;6;0;11;0;0;9;0;3;vocational_technical_college;self_employed;lower_i;04
+female;> 54;1963;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;12;5;2;0;2;0;12;5;9;2;1;2;high_school;self_employed;middle_i;04
+female;45 - 54;1977;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;10;0;4;0;0;0;10;15;8;8;2;2;university;self_employed;lower_i;04
+female;45 - 54;1978;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;2;0;2;0;2;1;5;2;2;2;0;2;university;employed_for_wages;prefer_not_to_say;04
+male;35 - 44;1987;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;3;0;0;0;0;0;3;2;0;0;0;0;postgraduate;employed_for_wages;middle_i;04
+female;35 - 44;1985;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;2;4;2;0;4;4;1;6;2;2;0;1;university;employed_for_wages;lower_i;04
+female;> 54;1964;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;4;5;1;0;0;0;0;0;0;1;0;0;middle_school;other;middle_ii;04
+male;25 - 34;1989;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;2;5;0;1;2;2;6;4;1;3;0;2;postgraduate;employed_for_wages;lower_ii;11
+male;> 54;1968;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;3;7;2;5;1;1;12;13;5;3;0;4;vocational_technical_college;employed_for_wages;middle_ii;11
+male;18 - 24;2003;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;4;9;1;5;5;0;15;5;1;9;1;5;vocational_technical_college;unemployed_looking;prefer_not_to_say;11
+female;35 - 44;1988;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;4;15;1;6;100;100;200;120;40;60;15;1;university;employed_for_wages;prefer_not_to_say;11
+female;45 - 54;1972;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;23;1;3;0;5;21;12;1;0;3;13;2;vocational_technical_college;employed_for_wages;high_i;11
+female;> 54;1968;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;10;2;0;0;1;0;4;4;6;0;0;2;high_school;employed_for_wages;middle_ii;11
+male;45 - 54;1973;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;35;20;2;10;5;5;15;35;10;5;0;4;university;employed_for_wages;middle_i;11
+male;> 54;1964;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;1;5;0;2;0;0;4;0;3;1;0;1;vocational_technical_college;retired;middle_i;11
+female;45 - 54;1970;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;40;0;30;10;0;60;80;30;10;2;5;vocational_technical_college;employed_for_wages;high_i;11
+male;> 54;1958;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;8;0;1;0;0;0;8;10;8;3;0;4;postgraduate;employed_for_wages;middle_i;11
+male;25 - 34;1995;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;16;4;0;4;20;90;36;5;2;0;1;vocational_technical_college;employed_for_wages;high_i;11
+female;> 54;1968;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;4;0;0;0;0;3;0;1;0;0;1;vocational_technical_college;employed_for_wages;lower_ii;11
+male;> 54;1968;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;1;3;2;2;1;2;5;6;7;3;0;3;high_school;employed_for_wages;lower_ii;11
+female;25 - 34;1997;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;2;21;20;14;10;0;80;40;20;10;4;0;postgraduate;other;lower_i;11
+female;> 54;1966;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;4;0;12;0;0;0;8;8;4;1;1;0;university;employed_for_wages;prefer_not_to_say;11
+male;> 54;1963;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;1;0;5;0;0;1;50;35;15;5;2;10;vocational_technical_college;employed_for_wages;middle_i;11
+female;25 - 34;1996;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;2;2;0;0;1;0;5;0;2;1;0;3;vocational_technical_college;unemployed_looking;lower_i;11
+female;45 - 54;1969;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;1;0;2;0;1;1;1;2;2;0;0;2;vocational_technical_college;employed_for_wages;lower_i;11
+female;35 - 44;1988;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;50;30;20;0;15;0;50;20;15;6;0;2;high_school;self_employed;lower_ii;11
+male;45 - 54;1972;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;10;3;4;2;0;2;8;20;15;5;0;6;university;employed_for_wages;lower_ii;11
+male;45 - 54;1971;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;10;1;0;0;0;0;10;5;0;0;0;0;university;employed_for_wages;prefer_not_to_say;11
+male;25 - 34;1994;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;30;18;9;4;6;2;37;10;2;25;0;18;postgraduate;employed_for_wages;middle_i;11
+female;18 - 24;2002;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;2;3;0;0;0;2;4;3;1;2;0;4;university;student;prefer_not_to_say;11
+female;35 - 44;1983;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;5;10;0;0;3;6;5;15;8;1;1;5;vocational_technical_college;unemployed_looking;lower_i;11
+male;45 - 54;1978;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;5;0;4;0;0;10;20;2;4;4;1;0;university;employed_for_wages;middle_ii;11
+male;> 54;1962;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;2;5;0;1;0;0;5;2;2;0;0;1;vocational_technical_college;employed_for_wages;lower_ii;11
+female;18 - 24;2000;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;2;0;1;2;3;4;2;1;0;0;1;university;employed_for_wages;prefer_not_to_say;14
+female;18 - 24;2002;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;5;9;1;2;2;1;14;2;1;2;1;2;postgraduate;student;lower_i;14
+female;> 54;1963;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;5;0;0;0;0;0;1;1;3;0;0;1;vocational_technical_college;unemployed_looking;lower_i;14
+male;45 - 54;1976;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;1;4;0;20;1;2;6;200;100;10;7;15;postgraduate;employed_for_wages;high_ii;14
+female;45 - 54;1975;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;2;0;1;1;8;2;2;0;0;0;0;postgraduate;employed_for_wages;high_i;14
+female;45 - 54;1972;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;0;0;0;25;25;15;10;0;0;0;2;university;unemployed_looking;middle_ii;14
+female;35 - 44;1986;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;4;3;1;0;0;0;8;0;0;0;0;0;university;employed_for_wages;high_i;14
+female;> 54;1968;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;5;50;0;0;0;15;40;25;15;10;0;20;middle_school;employed_for_wages;middle_i;14
+male;35 - 44;1983;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;20;30;3;10;0;5;25;15;10;6;0;30;high_school;unemployed_looking;lower_i;14
+female;25 - 34;1989;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;8;2;2;0;2;9;2;1;0;0;0;middle_school;employed_for_wages;lower_ii;14
+female;25 - 34;1990;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;5;2;0;4;4;10;4;15;8;1;0;2;postgraduate;employed_for_wages;high_i;14
+male;25 - 34;1995;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;70;50;5;13;27;20;50;25;15;8;3;45;high_school;employed_for_wages;lower_i;14
+male;45 - 54;1978;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;15;10;8;1;1;5;50;40;6;5;0;6;postgraduate;employed_for_wages;high_i;14
+female;25 - 34;1996;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;1;0;5;0;1;6;10;6;1;2;3;8;high_school;unemployed_looking;lower_i;14
+female;> 54;1966;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;10;10;0;4;15;30;54;30;15;50;0;15;university;self_employed;lower_ii;14
+female;18 - 24;1999;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;18;10;3;7;6;2;30;17;7;15;7;4;high_school;unemployed_looking;middle_ii;14
+male;35 - 44;1980;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;2;4;0;4;3;3;0;14;0;2;0;0;high_school;self_employed;lower_i;14
+male;45 - 54;1975;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;15;9;7;3;1;3;20;8;5;2;0;3;university;employed_for_wages;lower_ii;18
+male;45 - 54;1976;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;30;20;5;0;0;20;10;15;5;25;0;15;middle_school;self_employed;middle_i;18
+female;> 54;1965;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;10;4;0;0;10;15;8;10;10;0;8;high_school;homemaker;lower_ii;18
+female;45 - 54;1973;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;5;0;5;0;20;30;10;50;5;25;2;0;postgraduate;employed_for_wages;high_ii;18
+male;> 54;1953;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;15;0;5;0;0;2;10;10;5;10;5;0;university;retired;middle_i;18
+female;35 - 44;1982;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;3;1;0;1;0;3;0;5;1;0;0;0;postgraduate;employed_for_wages;middle_ii;18
+male;45 - 54;1977;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;1;5;0;2;0;3;1;8;2;0;0;1;vocational_technical_college;employed_for_wages;middle_ii;18
+male;45 - 54;1975;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;12;10;7;5;1;8;10;12;2;2;0;3;university;employed_for_wages;middle_ii;18
+male;35 - 44;1980;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;12;500;11;2;1111;111112223;28;1111111;222;111111111;4;1111111;vocational_technical_college;employed_for_wages;lower_i;18
+female;25 - 34;1997;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;1;0;1;0;1;0;3;0;3;0;0;0;high_school;employed_for_wages;lower_i;18
+female;35 - 44;1987;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;8;6;0;1;0;4;1;6;8;1;0;1;vocational_technical_college;unemployed_looking;high_i;18
+female;> 54;1965;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;6;2;1;0;0;0;5;5;2;1;0;2;high_school;unemployed_not_looking;lower_i;18
+female;> 54;1966;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;0;0;3;0;0;3;0;0;0;0;3;vocational_technical_college;unable_to_work;lower_ii;18
+male;35 - 44;1987;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;1;8;0;1;5;0;40;20;20;0;0;4;high_school;employed_for_wages;lower_i;18
+female;25 - 34;1998;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;10;0;1;2;5;19;5;0;1;0;6;university;self_employed;lower_i;18
+male;> 54;1955;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;6;8;0;17;0;0;25;10;6;4;2;0;vocational_technical_college;retired;lower_ii;18
+female;> 54;1966;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;5;1;12;0;0;2;21;8;7;8;2;1;university;homemaker;lower_i;18
+male;> 54;1961;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;2;0;6;0;0;8;0;2;0;0;2;high_school;retired;lower_i;18
+male;35 - 44;1986;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;10;2;5;1;2;7;8;4;3;2;0;6;university;self_employed;lower_ii;18
+male;> 54;1960;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;112;41;0;0;0;18;87;72;36;78;12;68;university;employed_for_wages;lower_ii;18
+female;45 - 54;1976;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;2;0;0;0;1;0;0;1;2;0;0;1;vocational_technical_college;unemployed_not_looking;lower_i;18
+male;> 54;1966;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;10;2;5;0;0;6;9;12;3;5;1;4;high_school;employed_for_wages;lower_i;18
+male;45 - 54;1971;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;250;0;2;0;3;15;178;85;14;135;2;78;high_school;self_employed;middle_i;18
+female;> 54;1959;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;10;6;0;0;2;3;5;5;5;4;0;5;high_school;homemaker;high_i;21
+female;> 54;1957;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;0;0;0;3;0;0;3;2;0;0;1;university;unemployed_looking;high_i;21
+female;> 54;1968;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;15;4;0;0;0;3;6;10;6;5;0;2;high_school;unemployed_looking;lower_ii;21
+female;45 - 54;1976;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;80;100;20;0;200;15;50;100;100;20;0;50;university;unemployed_looking;prefer_not_to_say;21
+male;35 - 44;1979;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;5;20;0;100;0;0;25;50;50;20;0;20;high_school;employed_for_wages;lower_ii;21
+female;45 - 54;1977;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;2;5;0;5;1;2;50;25;15;3;0;3;university;unemployed_looking;lower_ii;21
+male;25 - 34;1989;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;5;10;3;2;0;0;15;5;0;5;0;10;middle_school;employed_for_wages;lower_ii;23
+female;18 - 24;2001;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;1;0;0;0;2;0;29;25;0;1;0;0;university;student;prefer_not_to_say;23
+female;> 54;1963;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;6;4;3;0;0;1;0;2;4;1;2;2;vocational_technical_college;unemployed_not_looking;prefer_not_to_say;23
+male;45 - 54;1972;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;8;1;2;0;0;0;0;11;1;5;0;0;university;self_employed;high_ii;23
+male;> 54;1968;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;12;25;5;8;3;2;50;25;14;1;2;20;elementary_school;employed_for_wages;middle_i;23
+male;> 54;1967;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;4;0;0;0;1;1;4;0;2;0;0;1;postgraduate;employed_for_wages;high_ii;23
+female;> 54;1964;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;20;20;0;10;20;10;20;40;20;7;0;10;university;employed_for_wages;high_i;23
+male;18 - 24;2001;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;5;4;2;1;3;5;15;15;1;1;1;4;middle_school;other;prefer_not_to_say;23
+male;> 54;1968;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;3;0;0;0;0;0;1;1;1;0;0;1;vocational_technical_college;retired;lower_ii;23
+male;45 - 54;1974;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;0;0;0;0;0;0;0;0;0;0;0;middle_school;unemployed_looking;lower_i;23
+female;45 - 54;1978;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;10;3;1;0;0;30;14;16;0;5;0;3;vocational_technical_college;homemaker;lower_ii;23
+male;> 54;1959;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;50;0;10;0;0;0;15;25;40;20;10;20;postgraduate;employed_for_wages;middle_ii;23
+male;> 54;1950;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;2;0;0;0;0;0;0;0;2;0;0;0;vocational_technical_college;retired;lower_ii;23
+female;18 - 24;2000;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;25;50;0;2;0;9;48;25;9;10;1;50;high_school;student;lower_i;23
+male;18 - 24;2004;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;70;72;35;15;93;16;250;73;21;68;4;53;university;student;middle_ii;23
+female;> 54;1968;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;18;7;10;30;0;0;5;20;10;0;0;4;vocational_technical_college;unemployed_looking;prefer_not_to_say;23
+female;35 - 44;1980;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;86;25;47;30;10;15;50;50;25;56;12;47;university;employed_for_wages;lower_ii;29
+female;> 54;1967;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;0;0;0;0;0;0;0;0;0;0;0;high_school;homemaker;lower_i;29
+male;18 - 24;1999;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;5;3;4;2;6;10;15;10;3;3;0;0;high_school;student;lower_i;29
+male;> 54;1947;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;25;0;1;0;0;5;10;5;5;3;1;2;vocational_technical_college;retired;lower_ii;29
+female;25 - 34;1990;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;10;12;4;14;0;0;20;10;2;0;1;1;vocational_technical_college;employed_for_wages;lower_ii;29
+male;> 54;1963;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;3;5;1;0;8;10;7;25;10;1;0;5;vocational_technical_college;retired;high_i;29
+male;> 54;1960;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;5;30;0;50;5;50;45;45;20;20;1;10;high_school;self_employed;middle_ii;29
+female;35 - 44;1981;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;5;2;0;4;1;0;12;2;1;2;0;0;postgraduate;employed_for_wages;middle_ii;29
+male;> 54;1967;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;10;2;2;0;0;0;4;8;7;2;0;1;vocational_technical_college;employed_for_wages;middle_i;29
+male;> 54;1963;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;13;11;1500;0;4;0;100;1000;400;800;12;0;university;employed_for_wages;high_ii;29
+male;> 54;1960;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;5;1;10;0;3;20;23;11;3;50;0;4;high_school;other;lower_i;29
+male;> 54;1957;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;2;1;0;0;0;1;2;0;2;1;0;2;postgraduate;retired;high_i;29
+male;> 54;1962;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;6;3;3;2;20;10;30;21;2;2;0;0;high_school;employed_for_wages;middle_ii;29
+male;> 54;1961;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;30;0;5;0;0;0;2;15;18;6;1;0;postgraduate;self_employed;middle_i;29
+female;45 - 54;1969;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;15;5;1;0;0;0;16;1;1;2;0;0;vocational_technical_college;unemployed_looking;lower_i;29
+male;35 - 44;1985;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;1;1;3;0;0;1;6;5;2;1;0;1;postgraduate;employed_for_wages;high_ii;29
+female;> 54;1966;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;6;5;0;0;2;2;4;5;2;2;0;3;postgraduate;employed_for_wages;middle_ii;29
+female;> 54;1967;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;3;0;2;0;7;0;6;8;9;0;2;2;elementary_school;unemployed_looking;lower_i;29
+female;35 - 44;1979;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;50;20;20;10;0;10;50;60;10;15;1;3;postgraduate;employed_for_wages;high_i;29
+male;> 54;1951;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;42;4;0;0;2;0;52;52;6;38;2;14;university;self_employed;middle_i;29
+female;45 - 54;1977;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;9;16;4;0;0;2;25;25;0;2;0;0;middle_school;employed_for_wages;lower_i;29
+female;35 - 44;1985;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;10;4;3;5;1;2;18;8;3;10;6;5;university;self_employed;lower_i;29
+female;> 54;1951;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;23;0;0;0;0;12;12;12;23;0;0;vocational_technical_college;retired;middle_i;29
+female;45 - 54;1975;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;3;2;0;5;0;0;1;4;0;0;0;0;vocational_technical_college;employed_for_wages;lower_ii;29
+male;25 - 34;1992;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;20;25;8;6;15;2;50;20;10;10;6;3;university;employed_for_wages;lower_ii;29
+female;35 - 44;1979;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;1;3;1;1;0;2;10;8;3;0;0;2;university;homemaker;lower_i;29
+female;18 - 24;2003;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;3;0;1;0;1;3;2;0;0;0;2;university;student;lower_i;29
+male;25 - 34;1992;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;1;4;2;2;4;3;12;5;0;2;0;2;university;employed_for_wages;middle_ii;29
+female;18 - 24;2004;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;5;0;4;1;0;10;3;8;2;0;1;0;university;student;prefer_not_to_say;29
+female;> 54;1964;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;25;0;3;0;2;0;20;10;3;25;0;3;university;self_employed;lower_ii;29
+female;> 54;1948;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;3;0;10;1;2;3;4;4;0;0;1;middle_school;homemaker;middle_i;29
+male;> 54;1954;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;4;2;0;0;0;2;0;3;5;2;0;0;university;self_employed;lower_ii;29
+female;> 54;1966;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;5;9;7;4;10;6;8;10;5;3;0;2;university;homemaker;lower_ii;29
+female;> 54;1955;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;12;1;2;0;1;9;2;8;4;1;1;1;high_school;retired;prefer_not_to_say;29
+female;25 - 34;1997;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;15;13;5;2;0;0;40;10;5;2;0;10;vocational_technical_college;employed_for_wages;lower_ii;29
+female;35 - 44;1983;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;5;1;1;0;0;0;7;0;0;0;0;2;postgraduate;employed_for_wages;lower_ii;29
+female;> 54;1959;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;2;1;0;0;0;2;4;4;1;0;1;university;employed_for_wages;lower_i;29
+female;> 54;1968;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;2;1;1;20;1;4;12;30;8;2;1;5;postgraduate;employed_for_wages;lower_ii;29
+male;> 54;1952;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;1;0;0;0;0;0;0;1;0;0;1;0;university;retired;middle_ii;29
+male;45 - 54;1977;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;40;3;21;2;15;1;29;31;3;2;0;3;vocational_technical_college;employed_for_wages;lower_i;29
+female;25 - 34;1995;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;1;5;0;20;3;5;10;6;2;6;2;3;university;employed_for_wages;middle_i;29
+female;> 54;1956;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;2;20;0;4;1;0;15;5;1;0;0;2;university;retired;high_ii;29
+female;> 54;1961;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;0;0;12;0;0;9;4;2;0;0;3;high_school;unemployed_looking;lower_i;29
+male;35 - 44;1988;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;4;0;0;0;0;1;1;2;0;0;0;vocational_technical_college;employed_for_wages;lower_i;29
+male;45 - 54;1976;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;50;5;25;1;15;20;25;50;25;35;1;40;vocational_technical_college;employed_for_wages;lower_ii;41
+female;> 54;1967;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;2;6;0;0;8;4;2;0;6;0;0;4;middle_school;unemployed_looking;prefer_not_to_say;41
+female;> 54;1967;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;18;0;18;0;8;20;12;20;30;5;0;7;vocational_technical_college;unemployed_looking;lower_i;41
+female;45 - 54;1977;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;5;12;1;20;0;0;50;10;2;3;1;15;university;employed_for_wages;lower_i;41
+female;> 54;1964;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;10;6;1;4;0;0;1;0;19;0;1;0;high_school;employed_for_wages;middle_i;41
+female;25 - 34;1989;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;1;0;2;0;2;4;2;2;0;0;0;middle_school;student;middle_i;41
+male;> 54;1962;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;10;5;9;1;4;1;7;9;10;6;1;2;vocational_technical_college;employed_for_wages;high_i;41
+male;35 - 44;1981;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;25;2;8;0;1;2;35;15;8;10;0;4;postgraduate;employed_for_wages;high_ii;41
+male;> 54;1962;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;8;5;6;3;1;2;5;8;12;3;1;2;vocational_technical_college;employed_for_wages;middle_i;41
+male;45 - 54;1972;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;20;2;100;0;20;40;150;150;20;70;0;20;vocational_technical_college;self_employed;high_i;41
+female;18 - 24;2000;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;5;0;0;2;3;10;1;0;1;0;2;middle_school;self_employed;lower_i;41
+female;35 - 44;1983;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;2;25;0;10;1;30;45;25;20;10;0;1;vocational_technical_college;employed_for_wages;middle_ii;41
+female;> 54;1962;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;6;0;2;0;0;0;2;1;2;0;0;0;university;retired;lower_ii;41
+male;35 - 44;1979;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;3;2;2;0;1;5;0;13;0;2;0;0;vocational_technical_college;self_employed;middle_ii;41
+female;> 54;1958;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;80;0;0;0;0;0;9;60;12;3;0;0;high_school;employed_for_wages;prefer_not_to_say;41
+female;25 - 34;1997;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;5;8;0;0;10;0;15;20;2;2;0;2;vocational_technical_college;homemaker;lower_i;41
+male;> 54;1968;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;10;2;4;2;0;10;0;5;16;4;3;0;university;employed_for_wages;middle_ii;41
+male;35 - 44;1980;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;8;2;0;2;2;0;0;6;2;3;0;0;postgraduate;employed_for_wages;middle_ii;41
+male;> 54;1964;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;6;0;15;0;0;0;5;16;8;0;6;0;vocational_technical_college;employed_for_wages;middle_ii;41
+female;35 - 44;1987;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;2;0;2;0;2;4;4;4;2;2;0;0;vocational_technical_college;employed_for_wages;lower_ii;41
+male;> 54;1964;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;0;0;0;4;0;1;2;1;0;0;2;high_school;employed_for_wages;high_i;41
+male;> 54;1965;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;4;0;0;0;0;2;4;0;2;1;0;4;vocational_technical_college;self_employed;middle_ii;41
+male;45 - 54;1970;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;2;7;1;3;1;9;9;3;1;3;0;0;middle_school;employed_for_wages;middle_i;41
+male;> 54;1957;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;30;200;0;200;0;0;50;400;100;10;2;10;vocational_technical_college;retired;high_i;41
+female;> 54;1960;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;20;0;1;19;0;0;12;18;5;2;0;10;postgraduate;unemployed_looking;prefer_not_to_say;41
+female;45 - 54;1978;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;2;2;4;0;0;0;0;6;2;0;0;0;middle_school;homemaker;lower_ii;41
+female;> 54;1960;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;1;2;0;0;0;0;0;1;2;0;0;1;vocational_technical_college;employed_for_wages;lower_i;41
+female;35 - 44;1981;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;5;10;0;3;0;6;12;25;0;0;0;0;university;employed_for_wages;lower_ii;41
+male;45 - 54;1974;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;1;4;1;0;0;0;3;3;5;0;0;1;high_school;employed_for_wages;lower_ii;41
+female;25 - 34;1993;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;3;4;1;2;1;9;5;6;2;2;0;2;university;employed_for_wages;lower_i;41
+female;25 - 34;1993;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;5;0;2;0;2;0;12;10;1;0;0;4;high_school;other;lower_i;41
+female;18 - 24;2002;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;2;10;0;3;3;8;20;6;0;0;0;5;university;unemployed_looking;lower_ii;41
+female;> 54;1963;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;20;0;30;0;0;20;10;15;10;1;0;high_school;employed_for_wages;lower_ii;41
+female;> 54;1955;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;1;20;0;25;0;0;20;10;5;0;0;5;university;retired;lower_i;41
+male;> 54;1967;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;0;0;0;5;16;16;7;6;4;1;5;university;military;middle_i;41
+male;> 54;1967;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;3;1;6;1;2;3;19;10;3;3;1;1;high_school;unemployed_looking;lower_i;41
+male;> 54;1960;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;10;6;1;2;2;3;5;6;6;3;1;4;university;employed_for_wages;middle_ii;41
+male;18 - 24;1999;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;1;20;1;5;2;2;30;5;3;0;0;1;university;student;lower_ii;41
+female;45 - 54;1976;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;10;2;1;0;0;3;1;15;3;1;0;1;postgraduate;employed_for_wages;lower_i;41
+female;> 54;1965;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;1;0;0;0;0;6;0;2;0;0;3;middle_school;unemployed_looking;prefer_not_to_say;41
+male;18 - 24;1999;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;10;8;5;0;4;5;12;15;3;3;0;2;vocational_technical_college;employed_for_wages;lower_ii;41
+female;> 54;1952;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;5;5;1;1;0;0;10;20;10;3;1;2;vocational_technical_college;employed_for_wages;middle_i;41
+female;45 - 54;1978;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;15;0;40;0;5;0;0;60;0;15;0;9;high_school;unemployed_looking;lower_ii;41
+female;35 - 44;1982;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;4;100;0;0;22;10;20;80;10;20;4;30;university;self_employed;lower_i;41
+male;45 - 54;1973;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;5;2;0;1;11;1;15;9;4;3;0;1;vocational_technical_college;employed_for_wages;lower_ii;41
+male;35 - 44;1985;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;5;1;2;0;2;2;8;4;2;1;0;2;university;employed_for_wages;lower_ii;
+male;35 - 44;1983;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;10;8;0;2;5;1;20;15;5;5;0;1;vocational_technical_college;employed_for_wages;lower_i;
+male;18 - 24;1999;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;14;17;1;0;2;40;80;10;0;10;0;1;high_school;employed_for_wages;middle_ii;
+male;> 54;1960;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;20;50;1;5;0;5;50;20;15;1;0;5;university;employed_for_wages;lower_ii;
+female;35 - 44;1987;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;5;10;0;1;0;0;20;55;18;2;0;6;vocational_technical_college;employed_for_wages;middle_i;
+female;18 - 24;2000;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;20;1;0;0;15;50;80;20;10;60;3;50;university;employed_for_wages;lower_i;
+male;45 - 54;1978;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;2;3;0;0;10;2;10;12;5;0;1;0;university;other;prefer_not_to_say;
+male;25 - 34;1990;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;11;10;0;9;5;2;25;10;4;3;0;5;vocational_technical_college;employed_for_wages;lower_ii;
+male;25 - 34;1994;Sí, estoy de acuerdo. Soy mayor de 18 años y doy mi consentimiento.;0;2;0;5;100;1;57;5;1;24;2;3;university;self_employed;high_ii;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
